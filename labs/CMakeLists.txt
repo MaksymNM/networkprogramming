@@ -8,6 +8,9 @@ endif()
 
 
 add_subdirectory(Lab01)
+add_subdirectory(Lab02)
+add_subdirectory(Lab03)
+add_subdirectory(Lab07)
 add_subdirectory(Individual01)
-
+add_subdirectory(Individual03)
 add_subdirectory(Individual02)
